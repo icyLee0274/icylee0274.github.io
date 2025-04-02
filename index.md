@@ -4,8 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student in the Department of Data Science at the City University of Hong Kong. 
-My Supervisor is Prof. Minghua Chen. 
+I am a Ph.D. student in the Department of Data Science at the [City University of Hong Kong](cityu.edu.hk). 
+My Supervisor is [Prof. Minghua Chen](https://www.mhchen.com). 
+Previously, I received my B.S. in statistics at [University of Science and Technology of China](ustc.edu.cn). 
 
 ## Research Interests
 
