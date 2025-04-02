@@ -1,0 +1,8 @@
+@inproceedings{
+    li2025gauge,
+    title={Gauge Flow Matching for Efficient Constrained Generative Modeling over General Convex Set},
+    author={Xinpeng Li and Enming Liang and Minghua Chen},
+    booktitle={ICLR 2025 Workshop on Deep Generative Model in Machine Learning: Theory, Principle and Efficacy},
+    year={2025},
+    url={https://openreview.net/forum?id=QyIlskgko9}
+}
